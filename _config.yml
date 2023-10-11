@@ -29,22 +29,18 @@ google_analytics: UA-101394056-1
 
 # SEO
 twitter:
-  username: jdatap
+  username:
 
-logo: /assets/logo.png
+logo: 
 
-lang: fr
+lang: ch
 
 facebook:
- app_id: 101766790448070
+ app_id: 
 
 social:
-  name: John Coene
+  name: 
   links:
-    - https://twitter.com/jdatap
-    - https://www.linkedin.com/in/johncoene
-    - https://plus.google.com/109009224717674019651
-    - https://github.com/JohnCoene
 
 # Build settings
 exclude: README.md
